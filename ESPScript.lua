@@ -9,4 +9,4 @@ local Label = Instance.new("TextLabel")
 GuiInstance.Parent = player:WaitForChild("PlayerGui")
 
 MainFrame.Parent = GuiInstance
-MainFrame.Size = UDim2.new('0, 300, 0, 300')
+MainFrame.Size = UDim2.new(0, 300, 0, 300)
